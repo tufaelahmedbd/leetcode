@@ -23,4 +23,3 @@ var guessNumber = function (n) {
   }
   return start;
 };
-console.log(guessNumber(10));
